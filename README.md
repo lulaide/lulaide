@@ -1,6 +1,20 @@
-# About
+# About ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lulaide.lulaide)
+## My GitHub stats
 ![Lulaide’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lulaide&show_icons=true&theme=radical)
+## My Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulaide&layout=compact)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lulaide.lulaide)
+# Main tech knowledge
 ![Flask](https://img.shields.io/badge/Flask-v2.0-green)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Nodejs](https://img.shields.io/badge/Nodejs-v22-yellow)
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-003B57.svg?&style=flat&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)
+![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/BITCOIN-0769AD.svg?&style=flat&logo=bitcoin&logoColor=black)

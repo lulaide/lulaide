@@ -1,8 +1,8 @@
 # About ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lulaide.lulaide)
 ## My GitHub stats
-![Lulaide’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lulaide&show_icons=true&theme=radical)
+![Lulaide’s GitHub stats](https://github-readme-stats.lulaide.com/api?username=lulaide&show_icons=true&theme=radical)
 ## My Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lulaide&layout=compact)
+![Top Langs](https://github-readme-stats.lulaide.com/api/top-langs/?username=lulaide&layout=compact)
 # Main tech knowledge
 ![Flask](https://img.shields.io/badge/Flask-v2.0-green)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)

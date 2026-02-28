@@ -1,6 +1,6 @@
 # About ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lulaide.lulaide)
 ## My GitHub stats
-![Lulaide’s GitHub stats](https://github-readme-stats.lulaide.com/api?username=lulaide&show_icons=true&theme=radical)
+![Lulaide’s GitHub stats](https://github-readme-stats.lulaide.com/api?username=lulaide&show_icons=true&theme=dark)
 ## My Top Langs
 ![Top Langs](https://github-readme-stats.lulaide.com/api/top-langs/?username=lulaide&layout=compact)
 # Main tech knowledge
